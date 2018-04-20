@@ -16,7 +16,7 @@ Learn everything you need to about the subject of this `Tutorial` project.
 ## Articles
 
 General
-* [x][1. 9 of the Best Homebrew Packages for Mac](1. http://osxdaily.com/2018/03/26/best-homebrew-packages-mac/)
+* [x][1. 9 of the Best Homebrew Packages for Mac](http://osxdaily.com/2018/03/26/best-homebrew-packages-mac/)
 * [ ][2. The command line interface to Cacher.](https://github.com/CacherApp/cacher-cli)
 
 Ruby
