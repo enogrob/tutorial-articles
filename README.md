@@ -30,7 +30,8 @@ Elixir
 * [ ][2. How to trace a GenServer’s Execution? Elixir](https://medium.com/blackode/how-to-trace-a-servers-execution-elixir-53154c990685)
 * [ ][3. Advanced Techniques for Architecting Flow in Elixir](http://trivelop.de/2018/03/26/flow-elixir-using-plug-like-token/?utm_campaign=elixir_radar_137&utm_medium=email&utm_source=RD+Station)
 * [x][4. Another way to exiting IEX other than ctrl-C](https://stackoverflow.com/questions/30085376/another-way-to-exiting-iex-other-than-ctrl-c)
-* [ ][Going low level with TCP sockets and -gen_tcp - Orestis Markou - ElixirConf EU 2018 - YouTube](https://youtu.be/-FiQhkV7JYk)
+* [x][Going low level with TCP sockets and -gen_tcp - Orestis Markou - ElixirConf EU 2018 - YouTube](https://youtu.be/-FiQhkV7JYk)
+* [ ][SOLID Elixir - Georgina McFadyen - ElixirConf EU 2018 - YouTube](https://www.youtube.com/watch?v=eldYot7uxUc&t=195s)
 
 Phoenix
 * [ ][1. Rails CLI Commands for Elixir & Phoenix](https://blog.fourk.io/rails-cli-commands-for-elixir-phoenix-88cb7da45fe7)
